@@ -1,1 +1,1 @@
-Message from developer one.
+Final project message after resolving the conflict.
